@@ -1,0 +1,17 @@
+body {
+  background-color: #D6D3CE;
+}
+
+h1 {
+  font-family:'Courier New', Courier, monospace;
+  font-size:100pt;
+  color: #fdfcf9;
+  text-shadow: 4px 4px #999691;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  
+}
